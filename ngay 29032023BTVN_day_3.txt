@@ -1,0 +1,4 @@
+BTVN
+Câu 1: Tạo ra 3 hình tròn có 3 màu RGB. 
+Câu 2: Tạo ra 3 hình tròn có màu RGB, mỗi hình tròn sẽ có 1 dòng chữ h2 màu trắng ở bên trong.
+Câu 3: Tạo mới 1 repository trên GitHub và đẩy code câu 1, câu 2 lên trên repository đó. Nộp bài bằng link repository có dạng: https://github.com/id_nguoidung/ten_repository
